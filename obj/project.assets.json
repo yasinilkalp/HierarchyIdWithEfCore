@@ -6202,11 +6202,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yasin\\source\\repos\\HierarchyIdWithEfCore\\HierarchyIdWithEfCore.csproj",
+      "projectUniqueName": "C:\\Users\\yasin\\source\\repos\\test\\HierarchyIdWithEfCore\\HierarchyIdWithEfCore.csproj",
       "projectName": "HierarchyIdWithEfCore",
-      "projectPath": "C:\\Users\\yasin\\source\\repos\\HierarchyIdWithEfCore\\HierarchyIdWithEfCore.csproj",
+      "projectPath": "C:\\Users\\yasin\\source\\repos\\test\\HierarchyIdWithEfCore\\HierarchyIdWithEfCore.csproj",
       "packagesPath": "C:\\Users\\yasin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yasin\\source\\repos\\HierarchyIdWithEfCore\\obj\\",
+      "outputPath": "C:\\Users\\yasin\\source\\repos\\test\\HierarchyIdWithEfCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yasin\\AppData\\Roaming\\NuGet\\NuGet.Config",
