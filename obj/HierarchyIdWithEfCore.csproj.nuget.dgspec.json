@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yasin\\source\\repos\\test\\HierarchyIdWithEfCore\\HierarchyIdWithEfCore.csproj": {}
+    "C:\\Users\\yasin\\source\\repos\\HierarchyIdWithEfCore\\HierarchyIdWithEfCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yasin\\source\\repos\\test\\HierarchyIdWithEfCore\\HierarchyIdWithEfCore.csproj": {
+    "C:\\Users\\yasin\\source\\repos\\HierarchyIdWithEfCore\\HierarchyIdWithEfCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yasin\\source\\repos\\test\\HierarchyIdWithEfCore\\HierarchyIdWithEfCore.csproj",
+        "projectUniqueName": "C:\\Users\\yasin\\source\\repos\\HierarchyIdWithEfCore\\HierarchyIdWithEfCore.csproj",
         "projectName": "HierarchyIdWithEfCore",
-        "projectPath": "C:\\Users\\yasin\\source\\repos\\test\\HierarchyIdWithEfCore\\HierarchyIdWithEfCore.csproj",
+        "projectPath": "C:\\Users\\yasin\\source\\repos\\HierarchyIdWithEfCore\\HierarchyIdWithEfCore.csproj",
         "packagesPath": "C:\\Users\\yasin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yasin\\source\\repos\\test\\HierarchyIdWithEfCore\\obj\\",
+        "outputPath": "C:\\Users\\yasin\\source\\repos\\HierarchyIdWithEfCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yasin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -119,5 +119,18 @@ namespace HierarchyIdWithEfCore.Controllers
             return categories;
         }
 
+        [HttpGet("tree")]
+        public async Task<List<Helpers.TreeView>> GetTreeView()
+        {
+            using var dbContext = new CategoryDbContext();
+
+
+            var result = await dbContext.Categories
+                    .OrderBy(c => c.HierarchyId)
+                    .ToListAsync();
+
+            return Helpers.GetTree(result);
+        }
+
     }
 }
